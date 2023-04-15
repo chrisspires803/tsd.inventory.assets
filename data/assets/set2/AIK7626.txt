@@ -1,0 +1,69 @@
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7626-HUNTERC
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (13) I219-LM
+   Physical Address. . . . . . . . . : C8-4B-D6-12-1D-3D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+   Physical Address. . . . . . . . . : C8-4B-D6-12-1D-3E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c7fd:f7:df0d:7f07%20(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.186.78(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, January 19, 2023 4:46:52 PM
+   Lease Expires . . . . . . . . . . : Friday, January 20, 2023 4:46:51 PM
+   Default Gateway . . . . . . . . . : 129.252.186.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.52
+   DHCPv6 IAID . . . . . . . . . . . : 754249224
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2B-59-B0-75-C8-4B-D6-12-1D-3E
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.1.0.10
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : 70-32-17-C5-B1-DD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 70-32-17-C5-B1-DE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 70-32-17-C5-B1-E1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+CR1HQL3

@@ -1,0 +1,80 @@
+SYSTEM NUMBER 7590 
+ 
+****************** 
+ 
+SerialNumber  
+GDXRRL3       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet        Realtek USB GbE C8-4B-D6-18-FC-9E   \Device\Tcpip_{F0E4DB0C-7618-40B8-8317-569F2774CDBB}      
+Wi-Fi           Intel(R) Wi-Fi  F8-9E-94-C5-E4-C8   \Device\Tcpip_{34ECCA03-2458-4FA8-B360-B5AFED4D08C6}      
+Ethernet 2      Intel(R) Ethern C8-4B-D6-18-FC-9D   Media disconnected                                        
+Bluetooth Netwo Bluetooth Devic F8-9E-94-C5-E4-CC   Media disconnected                                        
+ 
+****************** 
+ 
+Host Name:                 AIK7590-TRISTAN
+OS Name:                   Microsoft Windows 11 Enterprise
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Default User
+Registered Organization:   
+Product ID:                00329-00000-00003-AA683
+Original Install Date:     10/19/2022, 1:37:56 PM
+System Boot Time:          3/16/2023, 10:20:43 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 5520
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1805 Mhz
+BIOS Version:              Dell Inc. 1.25.1, 12/20/2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     32,491 MB
+Available Physical Memory: 25,386 MB
+Virtual Memory: Max Size:  37,355 MB
+Virtual Memory: Available: 30,628 MB
+Virtual Memory: In Use:    6,727 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\ATUM
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5022497
+                           [02]: KB5012170
+                           [03]: KB5023706
+                           [04]: KB5022610
+                           [05]: KB5022948
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.18
+                                 IP address(es)
+                                 [01]: 129.252.186.163
+                                 [02]: fe80::6d80:46c:35e6:b241
+                           [02]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.5.0.3
+                                 IP address(es)
+                                 [01]: 10.5.5.6
+                                 [02]: fe80::de8:431b:26d2:69c2
+                           [03]: Intel(R) Ethernet Connection (13) I219-LM
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

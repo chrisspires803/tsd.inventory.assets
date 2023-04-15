@@ -1,0 +1,66 @@
+Microsoft Windows [Version 10.0.19044.2075]
+(c) Microsoft Corporation. All rights reserved.
+
+J:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7572-TyB
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (13) I219-LM
+   Physical Address. . . . . . . . . : C8-4B-D6-18-F2-53
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F8-9E-94-CB-1E-C6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : F8-9E-94-CB-1E-C5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9c9b:2e32:6716:995d%6(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.2.0.251(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Lease Obtained. . . . . . . . . . : Thursday, September 29, 2022 2:28:55 PM
+   Lease Expires . . . . . . . . . . : Thursday, September 29, 2022 3:28:56 PM
+   Default Gateway . . . . . . . . . : 10.2.0.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.52
+   DHCPv6 IAID . . . . . . . . . . . : 95452516
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-BC-DF-83-C8-4B-D6-18-F2-54
+   DNS Servers . . . . . . . . . . . : 129.252.242.52
+                                       129.252.242.18
+                                       129.252.242.15
+                                       172.17.128.26
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F8-9E-94-CB-1E-C9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+1FXRRL3

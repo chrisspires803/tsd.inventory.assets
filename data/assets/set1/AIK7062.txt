@@ -1,0 +1,47 @@
+Microsoft Windows [Version 10.0.19042.1415]
+(c) Microsoft Corporation. All rights reserved.
+
+J:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7062-LCD
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+                                       student.usca.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : student.usca.edu
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 54-BF-64-6A-40-EE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::886c:9796:85d8:f8ed%9(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.107.7.30(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Tuesday, November 1, 2022 2:11:03 PM
+   Lease Expires . . . . . . . . . . : Wednesday, November 2, 2022 2:11:03 PM
+   Default Gateway . . . . . . . . . : 10.107.6.1
+   DHCP Server . . . . . . . . . . . : 10.5.0.3
+   DHCPv6 IAID . . . . . . . . . . . : 173326180
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-29-4A-AB-EA-54-BF-64-6A-40-EE
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.5.0.3
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 74-40-BB-E5-EC-82
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+1D831Q2

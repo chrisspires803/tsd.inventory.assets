@@ -1,0 +1,65 @@
+Microsoft Windows [Version 10.0.22621.819]
+(c) Microsoft Corporation. All rights reserved.
+
+J:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7606-LIBCART
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+   Physical Address. . . . . . . . . : C8-4B-D6-5D-F1-0D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::440b:cc1a:2030:c4d8%3(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.182.167(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, November 21, 2022 10:48:27 AM
+   Lease Expires . . . . . . . . . . : Tuesday, November 22, 2022 11:48:25 AM
+   Default Gateway . . . . . . . . . : 129.252.182.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.18
+   DHCPv6 IAID . . . . . . . . . . . : 101745286
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2B-0D-4F-54-C8-4B-D6-5D-F1-0D
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.1.0.10
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Physical Address. . . . . . . . . : 78-AF-08-24-C9-8F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 78-AF-08-24-C9-90
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 78-AF-08-24-C9-93
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+1PQ37S3

@@ -1,0 +1,76 @@
+SYSTEM NUMBER 7630 
+ 
+****************** 
+ 
+SerialNumber  
+7NQ37S3       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet        Realtek USB GbE C8-4B-D6-5D-EF-F7   \Device\Tcpip_{0A3D4222-F9FF-4801-ABB9-0E4594269E22}      
+Bluetooth Netwo Bluetooth Devic 78-AF-08-24-B4-7B   Media disconnected                                        
+Wi-Fi           Intel(R) Wi-Fi  78-AF-08-24-B4-77   \Device\Tcpip_{74902CA0-311B-4136-9CDC-C19030187CD5}      
+ 
+****************** 
+ 
+Host Name:                 AIK7630-LOADING
+OS Name:                   Microsoft Windows 11 Enterprise
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Default User
+Registered Organization:   
+Product ID:                00329-00000-00003-AA535
+Original Install Date:     10/27/2022, 12:12:57 PM
+System Boot Time:          2/3/2023, 9:29:20 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 3330
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~1600 Mhz
+BIOS Version:              Dell Inc. 1.4.0, 7/11/2022
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,069 MB
+Available Physical Memory: 9,837 MB
+Virtual Memory: Max Size:  18,501 MB
+Virtual Memory: Available: 12,371 MB
+Virtual Memory: In Use:    6,130 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\AMUN
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5022404
+                           [02]: KB5012170
+                           [03]: KB5022360
+                           [04]: KB5022610
+                           [05]: KB5020487
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.18
+                                 IP address(es)
+                                 [01]: 129.252.186.189
+                                 [02]: fe80::fe1d:8a12:bd5b:fd7b
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.5.0.3
+                                 IP address(es)
+                                 [01]: 10.5.10.136
+                                 [02]: fe80::9109:2e7e:195:946b
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

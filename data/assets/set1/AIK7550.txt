@@ -1,0 +1,88 @@
+Microsoft Windows [Version 10.0.19044.1826]
+(c) Microsoft Corporation. All rights reserved.
+
+J:\>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7550-SID
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+   Physical Address. . . . . . . . . : 00-BE-43-28-26-C3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::5bf:1dea:ffa4:9695%17(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.182.161(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, July 15, 2022 8:33:24 AM
+   Lease Expires . . . . . . . . . . : Saturday, July 16, 2022 8:33:24 AM
+   Default Gateway . . . . . . . . . : 129.252.182.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.18
+   DHCPv6 IAID . . . . . . . . . . . : 101463958
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-62-F4-9B-00-BE-43-28-26-C3
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.1.0.10
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 80-38-FB-24-47-9F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 82-38-FB-24-47-9E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9560 160MHz
+   Physical Address. . . . . . . . . : 80-38-FB-24-47-9E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d547:1bf7:f0dd:a3ac%11(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.2.3.64(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Lease Obtained. . . . . . . . . . : Friday, July 15, 2022 8:34:05 AM
+   Lease Expires . . . . . . . . . . : Friday, July 15, 2022 3:21:14 PM
+   Default Gateway . . . . . . . . . : 10.2.0.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.18
+   DHCPv6 IAID . . . . . . . . . . . : 235428822
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-62-F4-9B-00-BE-43-28-26-C3
+   DNS Servers . . . . . . . . . . . : 129.252.242.52
+                                       129.252.242.18
+                                       129.252.242.15
+                                       172.17.128.26
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 80-38-FB-24-47-A2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+2SV4GL3

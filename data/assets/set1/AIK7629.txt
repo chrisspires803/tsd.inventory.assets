@@ -1,0 +1,66 @@
+Microsoft Windows [Version 10.0.22621.1105]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7629-ADM-CHK
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+   Physical Address. . . . . . . . . : C8-4B-D6-5D-F0-ED
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::afd7:7d76:61b9:60f4%3(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.186.170(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, January 26, 2023 1:22:13 PM
+   Lease Expires . . . . . . . . . . : Friday, January 27, 2023 1:37:31 PM
+   Default Gateway . . . . . . . . . : 129.252.186.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.18
+   DHCPv6 IAID . . . . . . . . . . . : 101745286
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2B-64-45-5A-C8-4B-D6-5D-F0-ED
+   DNS Servers . . . . . . . . . . . : 129.252.242.52
+                                       129.252.242.18
+                                       129.252.242.15
+                                       172.17.128.26
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 78-AF-08-24-B4-87
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : student.usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Physical Address. . . . . . . . . : 78-AF-08-24-B4-86
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 78-AF-08-24-B4-8A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+GNQ37S3

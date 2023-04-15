@@ -1,0 +1,82 @@
+Microsoft Windows [Version 10.0.19045.2311]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\daniellemc.ws>ipcong /all
+'ipcong' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\daniellemc.ws> ipcong /all
+'ipcong' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\daniellemc.ws> ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7615-LOADING
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (13) I219-LM
+   Physical Address. . . . . . . . . : C8-4B-D6-0E-AA-C4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+   Physical Address. . . . . . . . . : C8-4B-D6-0E-AA-C5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::9dee:6d7e:2b70:5a54%20(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.186.60(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Thursday, December 8, 2022 10:27:46 AM
+   Lease Expires . . . . . . . . . . : Friday, December 9, 2022 10:27:46 AM
+   Default Gateway . . . . . . . . . : 129.252.186.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.52
+   DHCPv6 IAID . . . . . . . . . . . : 754249224
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2B-23-B3-BE-C8-4B-D6-0E-AA-C5
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.1.0.10
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 70-32-17-C7-C4-DD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : 70-32-17-C7-C4-DC
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 70-32-17-C7-C4-E0
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+SerialNumber
+FR1HQL3

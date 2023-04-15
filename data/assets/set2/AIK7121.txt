@@ -1,0 +1,77 @@
+SYSTEM NUMBER 7121 
+ 
+****************** 
+ 
+SerialNumber  
+27PNLQ2       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet        Intel(R) Ethern E4-B9-7A-27-04-23   Media disconnected                                        
+Wi-Fi           Intel(R) Dual B 64-5D-86-6F-5F-F9   Media disconnected                                        
+Bluetooth Netwo Bluetooth Devic 64-5D-86-6F-5F-FD   Media disconnected                                        
+Ethernet 2      Realtek USB GbE E4-B9-7A-AB-68-DB   \Device\Tcpip_{CF4AA161-DFD3-433F-B8E0-D2CE52927D46}      
+ 
+****************** 
+ 
+Host Name:                 AIK7121-PD-CHK
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Authorized User
+Registered Organization:   University of South Carolina Aiken
+Product ID:                00330-51485-49796-AAOEM
+Original Install Date:     12/28/2022, 5:04:26 AM
+System Boot Time:          4/6/2023, 3:08:29 PM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 5590
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1910 Mhz
+BIOS Version:              Dell Inc. 1.21.0, 1/17/2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     8,050 MB
+Available Physical Memory: 4,571 MB
+Virtual Memory: Max Size:  9,330 MB
+Virtual Memory: Available: 6,069 MB
+Virtual Memory: In Use:    3,261 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\SHAW
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB5012170
+                           [03]: KB5015684
+                           [04]: KB5022834
+                           [05]: KB5018506
+                           [06]: KB5020372
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (4) I219-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 8265
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.18
+                                 IP address(es)
+                                 [01]: 129.252.186.162
+                                 [02]: fe80::a95e:1d56:94f1:2b3a
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

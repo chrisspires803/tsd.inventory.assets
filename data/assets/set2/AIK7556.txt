@@ -1,0 +1,83 @@
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AIK7556-SCI219A
+   Primary Dns Suffix  . . . . . . . : usca.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : usca.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : usca.edu
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : 00-4E-01-B1-33-9E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c850:e717:a4fa:ceb4%11(Preferred)
+   IPv4 Address. . . . . . . . . . . : 129.252.186.155(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Friday, August 12, 2022 11:57:52 AM
+   Lease Expires . . . . . . . . . . : Saturday, August 13, 2022 11:57:53 AM
+   Default Gateway . . . . . . . . . : 129.252.186.1
+   DHCP Server . . . . . . . . . . . : 129.252.242.18
+   DHCPv6 IAID . . . . . . . . . . . : 117460481
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-74-AF-5A-00-4E-01-B1-33-9E
+   DNS Servers . . . . . . . . . . . : 129.252.242.18
+                                       129.252.242.15
+                                       10.1.0.10
+   Primary WINS Server . . . . . . . : 129.252.242.18
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9560 160MHz
+   Physical Address. . . . . . . . . : 24-41-8C-F3-60-DD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 24-41-8C-F3-60-DE
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 26-41-8C-F3-60-DD
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 24-41-8C-F3-60-E1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:34e4:6f7e:812:d8a3:306f:e631(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::812:d8a3:306f:e631%13(Preferred)
+   Default Gateway . . . . . . . . . : ::
+   DHCPv6 IAID . . . . . . . . . . . : 150994944
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-74-AF-5A-00-4E-01-B1-33-9E
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+SerialNumber
+8GWQ513

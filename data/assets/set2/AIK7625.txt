@@ -1,0 +1,91 @@
+SYSTEM NUMBER 7625 
+ 
+****************** 
+ 
+SerialNumber  
+8R1HQL3       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet 2      Intel(R) Ethern C8-4B-D6-12-1D-3F   Media disconnected                                        
+Ethernet        Realtek USB GbE C8-4B-D6-12-1D-40   \Device\Tcpip_{F0E4DB0C-7618-40B8-8317-569F2774CDBB}      
+Wi-Fi           Intel(R) Wi-Fi  70-32-17-C7-C4-E1   \Device\Tcpip_{34ECCA03-2458-4FA8-B360-B5AFED4D08C6}      
+Bluetooth Netwo Bluetooth Devic 70-32-17-C7-C4-E5   Media disconnected                                        
+ 
+****************** 
+ 
+Host Name:                 AIK7625-TONISHA
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Default User
+Registered Organization:   
+Product ID:                00329-00000-00003-AA246
+Original Install Date:     10/12/2021, 1:36:35 PM
+System Boot Time:          2/14/2023, 10:32:45 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 5520
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1805 Mhz
+BIOS Version:              Dell Inc. 1.25.1, 12/20/2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     32,491 MB
+Available Physical Memory: 25,508 MB
+Virtual Memory: Max Size:  37,355 MB
+Virtual Memory: Available: 30,921 MB
+Virtual Memory: In Use:    6,434 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\ATUM
+Hotfix(s):                 16 Hotfix(s) Installed.
+                           [01]: KB5022405
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB4577266
+                           [05]: KB5003791
+                           [06]: KB5012170
+                           [07]: KB5015684
+                           [08]: KB5019275
+                           [09]: KB5007273
+                           [10]: KB5014035
+                           [11]: KB5014671
+                           [12]: KB5015895
+                           [13]: KB5016705
+                           [14]: KB5018506
+                           [15]: KB5020372
+                           [16]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (13) I219-LM
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.52
+                                 IP address(es)
+                                 [01]: 129.252.186.58
+                                 [02]: fe80::c659:900d:2244:7cef
+                           [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.5.0.3
+                                 IP address(es)
+                                 [01]: 10.5.30.60
+                                 [02]: fe80::44fc:1f07:d132:b678
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

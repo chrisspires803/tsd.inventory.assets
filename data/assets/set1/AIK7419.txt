@@ -1,0 +1,84 @@
+SYSTEM NUMBER 7419 
+ 
+****************** 
+ 
+SerialNumber  
+3BH3N93       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet        Realtek USB GbE 34-73-5A-AD-CE-60   \Device\Tcpip_{0A1CB826-27E3-4D2A-8EA1-AEE0AEE696DE}      
+Ethernet 2      Intel(R) Ethern 34-73-5A-AD-CE-5F   Media disconnected                                        
+Wi-Fi           Intel(R) Wi-Fi  B0-7D-64-8F-8E-CD   Media disconnected                                        
+Bluetooth Netwo Bluetooth Devic B0-7D-64-8F-8E-D1   Media disconnected                                        
+ 
+****************** 
+ 
+Host Name:                 AIK7419-ROSSP
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Default User
+Registered Organization:   
+Product ID:                00329-00000-00003-AA516
+Original Install Date:     2/25/2022, 5:16:02 PM
+System Boot Time:          2/15/2023, 8:26:09 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 5520
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1805 Mhz
+BIOS Version:              Dell Inc. 1.25.1, 12/20/2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,111 MB
+Available Physical Memory: 9,590 MB
+Virtual Memory: Max Size:  18,543 MB
+Virtual Memory: Available: 12,324 MB
+Virtual Memory: In Use:    6,219 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\ANUKET
+Hotfix(s):                 13 Hotfix(s) Installed.
+                           [01]: KB5022502
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB5007401
+                           [05]: KB5012170
+                           [06]: KB5015684
+                           [07]: KB5022834
+                           [08]: KB5006753
+                           [09]: KB5011352
+                           [10]: KB5015895
+                           [11]: KB5018506
+                           [12]: KB5020372
+                           [13]: KB5003242
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.52
+                                 IP address(es)
+                                 [01]: 129.252.186.57
+                                 [02]: fe80::cb99:eb53:e498:caee
+                           [02]: Intel(R) Ethernet Connection (13) I219-LM
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                 Connection Name: Wi-Fi
+                                 Status:          Media disconnected
+                           [04]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

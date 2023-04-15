@@ -1,0 +1,76 @@
+SYSTEM NUMBER 7983 
+ 
+****************** 
+ 
+SerialNumber  
+8GWS513       
+ 
+****************** 
+ 
+Connection Name Network Adapter Physical Address    Transport Name                                            
+=============== =============== =================== ==========================================================
+Ethernet 2      Cisco AnyConnec N/A                 Hardware not present                                      
+Ethernet 4      Realtek USB GbE B0-4F-13-E8-68-32   Media disconnected                                        
+Wi-Fi           Intel(R) Wirele N/A                 Hardware not present                                      
+Ethernet        Intel(R) Ethern 00-4E-01-B1-39-22   \Device\Tcpip_{4A0B01BC-F43B-444E-A157-4234313F3FF3}      
+Bluetooth Netwo Bluetooth Devic 24-41-8C-F1-0C-9C   Media disconnected                                        
+ 
+****************** 
+ 
+Host Name:                 AIK7983-CHRISS
+OS Name:                   Microsoft Windows 11 Enterprise
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          USCA Default User
+Registered Organization:   
+Product ID:                00329-00000-00003-AA558
+Original Install Date:     1/3/2023, 1:33:14 PM
+System Boot Time:          3/20/2023, 8:03:36 AM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 7470 AIO
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 13 GenuineIntel ~3000 Mhz
+BIOS Version:              Dell Inc. 1.21.0, 2/3/2023
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,181 MB
+Available Physical Memory: 2,037 MB
+Virtual Memory: Max Size:  46,901 MB
+Virtual Memory: Available: 23,468 MB
+Virtual Memory: In Use:    23,433 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    usca.edu
+Logon Server:              \\ATUM
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5022497
+                           [02]: KB5012170
+                           [03]: KB5023706
+                           [04]: KB5022948
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64
+                                 Connection Name: Ethernet 2
+                                 Status:          Hardware not present
+                           [02]: Realtek USB GbE Family Controller
+                                 Connection Name: Ethernet 4
+                                 Status:          Media disconnected
+                           [03]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 Status:          Hardware not present
+                           [04]: Intel(R) Ethernet Connection (7) I219-LM
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     129.252.242.52
+                                 IP address(es)
+                                 [01]: 129.252.186.54
+                                 [02]: fe80::b30:4bd:4078:afab
+                           [05]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
